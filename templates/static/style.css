@@ -1,0 +1,29 @@
+html,
+body {
+    background-color: rgb(76, 76, 76);
+    margin: 0;
+}
+
+.container {
+    margin-top: 20%;
+    text-align: center;
+}
+
+.card {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 100px;
+    background-color: rgb(76, 76, 76);
+    margin: 0 auto;
+    width: 500px;
+}
+
+.maintitle {
+    font-size: medium;
+    color: rgb(246, 179, 255);
+}
+
+.subtitle {
+    font-size: medium;
+    color: rgb(184, 143, 255);
+}
