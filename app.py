@@ -15,7 +15,7 @@ response = requests.get(
         # 都市名で取得する場合
         # "q": "tokyo",
         # apikey
-        "appid": '338d9f6cb5d3c0f7a9c3c5f6912409f6',
+        "appid": 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX',
         "units": "metric",
         "lang": "ja",
     },
